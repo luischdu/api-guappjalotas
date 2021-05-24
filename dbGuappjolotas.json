@@ -6,7 +6,8 @@
         "imageAlt": "Guajolota Verde",
         "name": "Guajolota Verde",
         "flavor": "https://i.imgur.com/vwb6NV8.png",
-        "price": 25
+        "price": 25,
+        "type": "guajolotas"
       },
       {
         "id": "gua-2",
@@ -14,7 +15,8 @@
         "imageAlt": "Guajolota de Mole",
         "name": "Guajolota de Mole",
         "flavor": "https://i.imgur.com/Q9L1kek.png",
-        "price": 25
+        "price": 25,
+        "type": "guajolotas"
       },
       {
         "id": "gua-3",
@@ -22,7 +24,8 @@
         "imageAlt": "Guajolota de Guayaba",
         "name": "Guajolota de Guayaba",
         "flavor": "https://i.imgur.com/ZfozpXu.png",
-        "price": 25
+        "price": 25,
+        "type": "guajolotas"
       },
       {
         "id": "gua-4",
@@ -30,7 +33,8 @@
         "imageAlt": "Guajolota de Piña",
         "name": "Guajolota de Piña",
         "flavor": "https://i.imgur.com/ILG91RE.png",
-        "price": 25
+        "price": 25,
+        "type": "guajolotas"
       },
       {
         "id": "gua-5",
@@ -38,7 +42,8 @@
         "imageAlt": "Guajolota de Pasas",
         "name": "Guajolota de Pasas",
         "flavor": "https://i.imgur.com/1A5007d.png",
-        "price": 25
+        "price": 25,
+        "type": "guajolotas"
       }
 
         
@@ -50,7 +55,8 @@
             "imageAlt": "Tamal Verde",
             "name": "Tamal Verde",
             "flavor": "https://i.imgur.com/vwb6NV8.png",
-            "price": 14
+            "price": 14,
+            "type": "tamales"
           },
           {
             "id": "tam-2",
@@ -58,7 +64,8 @@
             "imageAlt": "Tamal de Mole",
             "name": "Tamal de Mole",
             "flavor": "https://i.imgur.com/Q9L1kek.png",
-            "price": 14
+            "price": 14,
+            "type": "tamales"
           },
           {
             "id": "tam-3",
@@ -66,7 +73,8 @@
             "imageAlt": "Tamal de Guayaba",
             "name": "Tamal de Guayaba",
             "flavor": "https://i.imgur.com/ZfozpXu.png",
-            "price": 14
+            "price": 14,
+            "type": "tamales"
           },
           {
             "id": "tam-4",
@@ -74,7 +82,8 @@
             "imageAlt": "Tamal de Piña",
             "name": "Tamal de Piña",
             "flavor": "https://i.imgur.com/ILG91RE.png",
-            "price": 14
+            "price": 14,
+            "type": "tamales"
           },
           {
             "id": "tam-5",
@@ -82,7 +91,8 @@
             "imageAlt": "Tamal de Pasas",
             "name": "Tamal de Pasas",
             "flavor": "https://i.imgur.com/1A5007d.png",
-            "price": 14
+            "price": 14,
+            "type": "tamales"
           }
     ],
     "bebidas": [
@@ -92,7 +102,8 @@
             "imageAlt": "Champurrado",
             "name": "Champurrado",
             "flavor": "https://i.imgur.com/AU5V9vM.png",
-            "price": 12
+            "price": 12,
+            "type": "bebidas"
         },
         {
             "id": "dri-2",
@@ -100,7 +111,8 @@
             "imageAlt": "Café",
             "name": "Café",
             "flavor": "https://i.imgur.com/Y9x05Qw.png",
-            "price": 12
+            "price": 12,
+            "type": "bebidas"
         },
         {
             "id": "dri-3",
@@ -108,7 +120,8 @@
             "imageAlt": "Chocolate",
             "name": "Chocolate",
             "flavor": "https://i.imgur.com/HvQd4hk.png",
-            "price": 12
+            "price": 12,
+            "type": "bebidas"
         },
         {
             "id": "dri-4",
@@ -116,7 +129,8 @@
             "imageAlt": "Arroz con leche",
             "name": "Arroz con leche",
             "flavor": "https://i.imgur.com/gkQNStr.png",
-            "price": 12
+            "price": 12,
+            "type": "bebidas"
         }
             
     ],
